@@ -4,8 +4,8 @@
 
 
 **Week 1:**
-- [ ] Understand API RLAgents 
-- [ ] Research SOTA regarding reward functions and policies 
+- [x] Understand API RLGym (Diogo)
+- [ ] Research SOTA  reward functions and policies 
 - [ ] Input/Output Schemas 
 - [ ] Technological Stack 
 - [ ] Model and Training Definition 
@@ -27,3 +27,6 @@
 - [ ] Policy architecture iteration 
 - [ ] Stability and convergence analysis 
 - [ ] Document findings and decisions 
+
+
+
