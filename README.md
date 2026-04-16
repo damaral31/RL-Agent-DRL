@@ -4,7 +4,7 @@
 
 
 **Week 1:**
-- [ ] Understand API RLAgents 
+- [ ] Understand API RLGym
 - [ ] Research SOTA regarding reward functions and policies 
 - [ ] Input/Output Schemas 
 - [ ] Technological Stack 
